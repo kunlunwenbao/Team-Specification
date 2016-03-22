@@ -2,8 +2,6 @@
 
 如果你是新来的，请先阅读 [新人入职指南](AppointmentGuide.md)。
 
-我们没有周报，但你需要每天记录工时，参见 [TeamCola 使用](TeamCola.md) 。
-
 开发规范：
 
 * [编码规范](CodeStyle.md)，代码命名、格式化方面的内容
