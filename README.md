@@ -1,2 +1,4 @@
 # Team-Specification
-团队规范
+团队规范说明
+
+
