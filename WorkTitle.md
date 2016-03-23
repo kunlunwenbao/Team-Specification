@@ -1,6 +1,6 @@
 < [Back](README.md)
 
-工作记录使用 [WorkTitle](https://worktile.com/) 
+工作记录使用 [WorkTitle](https://worktile.com/) ,Worktitle有Web App和Native App,工作时间保持打开Web App。另外下载一下 WorkTitle 客户端。
 
 工作记录
 ====
