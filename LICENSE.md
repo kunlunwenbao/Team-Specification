@@ -1,2 +1,2 @@
-Copyright © 2013 Chinamobo Co., Ltd.
+Copyright © 2013 TouchMedia Co., Ltd.
 All Rights Reserved.

@@ -1,17 +1,14 @@
-< [Back](README.md) | [管理员版](AppointmentGuideForAdmin.md)
+< [Back](README.md)
+
 
 新人入职指南
 ====
 
 激活公司邮箱
 ----
-公司邮箱使用的是腾讯企业邮箱，登入 [https://exmail.qq.com/login](https://exmail.qq.com/login) 已激活。用户名是***你姓名的全拼***@chinamobo.com，密码是___你姓名的全拼___。
+登入 [http://mail.51touchmedia.com](http://mail.51touchmedia.com) 已激活。用户名是***你姓名的全拼***@51touchmedia.com，密码为姓名全拼。
 
 登入后你需要重设密码。后续你可能会受到一些邀请或帐号开通的邮件，请注意查收并按提示进行操作。
-
-建议在 Mac App Store 下载 Foxmail 邮件客户端收取邮件，并建议设置为开机时自动打开，设置方式可参考下图：
-
-![登陆时打开应用示例](image/make_app_auto_lunch_on_login.jpg)
 
 
 即时通讯软件
@@ -19,11 +16,24 @@
 公司内部沟通、项目讨论会用到 QQ，工作期间请保持登陆。
 
 
-GitHub 帐号
+代码管理
 ----
-你需要把你的 GitHub 帐户告知负责人，如果没有你需要注册一个。
+你需要把你的 **GitHub** 帐户和 **Git.Oschina.net** 账户 告知负责人，如果没有你需要注册一个。
+
+[注册git.oschina.net](https://git.oschina.net/)  [注册GitHub](http://www.github.com)
+
+任务协作
+----
+任务分配使用 WorkTitle 服务，没有你注册一个。并修改你的昵称。并把账户发给负责人。
+
+WorkTile侧重任务分配管理。程序开发协作使用 team.oschina.net ,所有项目的文档、工程最新状态、程序附件都在team里。如果没有 oschina.net 帐号，请注册下 [oschina.net](http://www.oschina.net/),并告知负责人。
+
+App 发布
+----
+App发布测试使用 ［http://fir.im/](http://fir.im/) 服务。
 
 
 其他
 ----
-另见：[http://mobos3/w/index.php/员工手册](http://mobos3/w/index.php/员工手册)
+
+此页短链接： [http://t.cn/RGsT6Bg](http://t.cn/RGsT6Bg)
