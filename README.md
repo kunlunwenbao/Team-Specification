@@ -1,12 +1,12 @@
 <base href="//github.com/zhichu99/team-specification/" />
 
+＃说明：
+
 如果你是新入职员工，请先阅读 [新人入职指南(必看)](AppointmentGuide.md)。
 
 不定期团队小型会议。需每天记录自己的工作任务。参见 [WorkTile 使用](WorkTitle.md)。
 
-说明：
-
-开发规范：
+规范：
 
 * [iOS编码规范](iOSCodeStyle.md)，代码命名、格式化方面的内容
 * [Android编码规范](AndroidCodeStyle.md)
@@ -19,6 +19,10 @@
 * [Git工作流程学习](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
 * [常见问题强调](CommonIssues.md)
 * [内测应用发布](http://fir.im)
+
+工程：
+* [iOS项目模板](https://github.com/zhichu99/iOS-Project-Template)
+
 
 工具使用：
 
