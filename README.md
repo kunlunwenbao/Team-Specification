@@ -6,7 +6,7 @@
 
 不定期团队小型会议。需每天记录自己的工作任务。参见 [WorkTile 使用](WorkTitle.md)。
 
-如需使用Google搜索资料，你懂的。请向负责人申请[SS](https://github.com/shadowsocks/shadowsocks/releases)帐号。SS客户端 [Mac](#) [Windows](https://github.com/shadowsocks/shadowsocks-windows/releases) [使用说明](#)。 
+如需使用Google搜索资料，你懂的。请向负责人申请[SS](https://github.com/shadowsocks/shadowsocks/releases)帐号。SS客户端 [Mac](https://github.com/shadowsocks/shadowsocks-iOS/releases/download/2.6.3/ShadowsocksX-2.6.3.dmg) [Windows](https://github.com/shadowsocks/shadowsocks-csharp/releases/download/2.5.6/Shadowsocks-win-2.5.6.zip) [使用说明](Shadowsocks.md)。 
 
 规范：
 
