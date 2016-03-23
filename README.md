@@ -3,8 +3,7 @@
 如果你是新来的，请先阅读 [新人入职指南](AppointmentGuide.md)。
 项目模板：
 
-* [iOS项目模板]https://github.com/zhichu99/iOS-Project-Template)
-开发规范：
+* [iOS项目模板](https://github.com/zhichu99/iOS-Project-Template)
 
 * [编码规范](CodeStyle.md)，代码命名、格式化方面的内容
 * [推荐实践](RecommendedPractice.md)
