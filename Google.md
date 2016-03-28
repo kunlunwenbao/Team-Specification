@@ -150,3 +150,9 @@ URL 参数：加在图片搜索网页的 URL 后面，可以实现更精细的�
 * &imgc=mono 灰阶图片
 * &imgc=color 全彩图片
 
+
+引用：
+
+======
+
+* [Google 搜索技巧](http://wdxtub.com/2016/03/26/google-tip/)
