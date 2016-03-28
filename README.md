@@ -23,6 +23,7 @@
 
 * [Git常用命令说明](GitCommand.md)
 * [Git工作流程学习](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
+* [Google搜索技巧](Google.md)
 * [内测应用发布](http://fir.im)
 
 工程：
