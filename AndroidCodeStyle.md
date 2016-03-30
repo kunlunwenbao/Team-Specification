@@ -16,7 +16,7 @@
 * 控件命名：按钮bt_,图片控件iv_<br />
 * Acitity,Fragment,Delegate,前缀全部一样<br />
 
-### 3. 代码规范1
+### 3. 代码规范
 * 所有逻辑相关的东西都在逻辑包之下，例如com.touchmedia.daolan<br />
 * 工具类联网基础类等相关的东西都在com.之下，与逻辑包处于平行的位置<br />
 * AndroidManifest中的activity，service，权限等加上注释，名称用途等<br />
