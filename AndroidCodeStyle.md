@@ -18,7 +18,12 @@
 
 ### 3. 代码规范
 * 所有逻辑相关的东西都在逻辑包之下，例如com.touchmedia.daolan<br />
-* 工具类联网基础类等相关的东西都在com.之下，与逻辑包处于平行的位置<br />
+* 一些项目整体相关的类，例如Application放在逻辑包com.touchmedia.daolan之下<br />
+* UI相关，例如Activity放在逻辑包com.touchmedia.daolan.ui之下<br />
+* Service相关，例如Service放在逻辑包com.touchmedia.daolan.service之下<br />
+* 实体以及控制器Controller,每一个实体对应一个Controller,逻辑包com.touchmedia.daolan.model之下<br />
+* 联网相关Task以及联网基础类以及联网实体类等放在,逻辑包com.touchmedia.daolan.cloudservice之下<br />
+* 工具类联网基础类等相关的东西都在com.之下，包括http联网基础类，UI基础类，Utils工具类，View通用界面，与逻辑包处于平行的位置<br />
 * AndroidManifest中的activity，service，权限等加上注释，名称用途等<br />
 * 添加权限时仔细查看AndroidManifest表，防止重复添加
 
