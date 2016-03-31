@@ -15,16 +15,20 @@
 * [iOS项目文件组织](iOSProjectOrganize.md) 项目文件命名、放置等约定
 * [Android项目文件组织](AndroidProjectOrganize.md)
 
+协作：
+
+* [赛导游团队博客](http://zhichu99.github.io/team-blog)
+
 开发：
 
 * [常见问题强调](CommonIssues.md)
 
 教学：
 
-* [Git常用命令说明](GitCommand.md)
+* [Git常用命令说明](GitCommand.md) 不必多说，必须了解
 * [Git工作流程学习](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
-* [Google搜索技巧](Google.md)
-* [MarkDown使用](https://github.com/younghz/Markdown)
+* [Google搜索技巧](Google.md) 找资料技巧
+* [MarkDown使用](https://github.com/younghz/Markdown) 轻量级标记语言
 * [内测应用发布](http://fir.im)
 
 工程：
