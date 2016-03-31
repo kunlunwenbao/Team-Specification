@@ -12,7 +12,7 @@
 ### 2. 命名规范
 * 项目名称首字母大写<br />
 * Acitity,Fragment,类，首字母大写<br />
-* 图片命名,资源文件命名：activity名称+功能名称（背景bg，按钮bt,图片控件iv等）+自己名称<br />
+* 图片命名,资源文件,控件id命名：activity名称+功能名称（背景bg，按钮bt,图片控件iv等）+自己名称<br />
 * 控件命名：按钮bt_,图片控件iv_<br />
 * Acitity,Fragment,Delegate,前缀全部一样<br />
 
