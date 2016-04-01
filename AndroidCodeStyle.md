@@ -26,4 +26,5 @@
 * 工具类联网基础类等相关的东西都在com.之下，包括http联网基础类，UI基础类，Utils工具类，View通用界面，与逻辑包处于平行的位置<br />
 * AndroidManifest中的activity，service，权限等加上注释，名称用途等<br />
 * 添加权限时仔细查看AndroidManifest表，防止重复添加
+* HttpParameter类主要放置联网参数信息，每个参数必须加上注释增加程序可读性
 
