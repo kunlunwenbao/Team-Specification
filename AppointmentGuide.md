@@ -6,9 +6,9 @@
 
 激活公司邮箱
 ----
-登入 [http://mail.51touchmedia.com](http://mail.51touchmedia.com) 已激活。用户名是***你姓名的全拼***@51touchmedia.com，密码为姓名全拼。
+登入 [http://mail.51touchmedia.com](http://mail.51touchmedia.com) 已激活。用户名是***你姓名的全拼***@51touchmedia.com，密码为Touch2013。
 
-登入后你需要重设密码。后续你可能会受到一些邀请或帐号开通的邮件，请注意查收并按提示进行操作。
+登入后你需要重设密码。
 
 
 即时通讯软件
@@ -18,7 +18,7 @@
 
 代码管理
 ----
-你需要把你的 **GitHub** 帐户和 **Git.Oschina.net** 账户 告知负责人，如果没有你需要注册一个。
+你需要把你的 **GitHub** 帐户(登录邮件)和 **Git.Oschina.net** 账户(用户名) 告知负责人，如果没有你需要注册一个。
 
 [注册git.oschina.net](https://git.oschina.net/)  [注册GitHub](http://www.github.com)
 
