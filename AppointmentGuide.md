@@ -18,7 +18,7 @@
 
 代码管理
 ----
-你需要把你的 **GitHub** 帐户(登录邮件)和 **Git.Oschina.net** 账户(用户名) 告知负责人，如果没有你需要注册一个。
+你需要把你的 **GitHub** 帐户(用户名)和 **Git.Oschina.net** 账户(用户名) 告知负责人，如果没有你需要注册一个。
 
 [注册git.oschina.net](https://git.oschina.net/)  [注册GitHub](http://www.github.com)
 
